@@ -1,6 +1,6 @@
-Iris v0.3.2;https://github.com/Laamy/iris-public/releases/download/v0.3.2/Iris.dll;1.19.83;Iris
+Iris v0.5;https://download2327.mediafire.com/w2y0007w7fpgbyRK62N5vpmT3ING7g7HcnKuRoyy7pTjc_pZyT1Vqetm1w77znQnMhtfQFH-qrMT_y5m84FVlcSxmT6PoNzFrwX7ltCPRAxbnKndYD5OzF04-xyL0OmrQlBC8f8gOV5rxbqlLSgDEqEFSlX2CT0s1wETKHqT3_PX/zmlwvufe8w586hx/Iris.dll;1.20;Iris
 Latite;https://github.com/Imrglop/Latite-Releases/releases/download/v1.3.54/Latite.1.19.81.dll;1.19.81;Latite
-Horion;https://horion.download/dll;1.19.81;Horion
+Horion;https://horion.download/dll;1.20;Horion
 Zephyr;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/Zephyr.dll;1.19.71;Zephyr
 Onix;https://github.com/bernarddesfosse/onixclientautoupdate/raw/main/OnixClient.dll;1.19.83;Onix
 NG;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/NG.dll;1.18.12;NG11812
