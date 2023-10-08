@@ -1,0 +1,18 @@
+{
+    "Clients": {
+        "Horion":[
+            {
+                "Version": "1.20.3",
+                "URL": "https://horion.download/dll",
+                "Hash": "Hash_Goes_Here"
+            }
+        ],
+        "Zephyr":[
+            {
+                "Version": "1.19.71",
+                "URL": "https://example.com/dll",
+                "Hash": "Hash_Goes_Here3"
+            }
+        ]
+    }
+}
