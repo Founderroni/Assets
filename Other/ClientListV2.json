@@ -4,14 +4,14 @@
             {
                 "Version": "1.20.3",
                 "URL": "https://horion.download/dll",
-                "Hash": "Hash_Goes_Here"
+                "Hash": "fb4b9712001eb291dc8353ab7f34e939"
             }
         ],
         "Zephyr":[
             {
                 "Version": "1.19.71",
-                "URL": "https://example.com/dll",
-                "Hash": "Hash_Goes_Here3"
+                "URL": "https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/Zephyr.dll",
+                "Hash": "f73ccb7b8426063d692e9dd664cf078c"
             }
         ]
     }
