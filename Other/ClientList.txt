@@ -1,7 +1,7 @@
 Nuvola B0.8.1;https://github.com/DisabledMallis/NuvolaWebRepo/releases/download/0.8.1/Nuvola.dll;1.20.12;Nuvola
 Iris v0.5;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/Iris.dll;1.20;Iris
-Latite;https://github.com/Imrglop/Latite-Releases/releases/download/v1.5.4/Latite.1.20.32.dll;1.20.32;Latite
-Horion;https://horion.download/dll;1.20.3;Horion
+Latite;https://github.com/Imrglop/Latite-Releases/releases/download/v1.6.0/Latite.1.20.60.dll;1.20.60;Latite
+Horion;https://horion.download/dll;1.20;Horion
 Zephyr;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/Zephyr.dll;1.19.71;Zephyr
 Onix;https://github.com/bernarddesfosse/onixclientautoupdate/raw/main/OnixClient.dll;1.19.83;Onix
 NG;https://github.com/Founderroni/Assets/raw/main/MCBE%20Clients/NG.dll;1.18.12;NG11812
